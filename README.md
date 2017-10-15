@@ -2,7 +2,5 @@
 
 ---
 
----
-
-
+It contains some small skills.
 
