@@ -4,8 +4,8 @@
 
 ## 相关网站
 
-* \[1\]\([http://blog.csdn.net/lanxingfeifei/article/details/53994916\](http://blog.csdn.net/lanxingfeifei/article/details/53994916\)\)
-* \[2\]\(https://www.ithome.com/html/android/309497.htm\)
+* \[1\]\([http://blog.csdn.net/lanxingfeifei/article/details/53994916\](http://blog.csdn.net/lanxingfeifei/article/details/53994916%29\)
+* \[2\]\([https://www.ithome.com/html/android/309497.htm\](https://www.ithome.com/html/android/309497.htm\)\)
 
 ## 注意事项
 
